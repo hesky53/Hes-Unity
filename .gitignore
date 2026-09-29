@@ -1,0 +1,20 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+# Asset meta files
+*.meta
+# VS/MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.user
+# Rider
+*.sln.iml
+# OS files
+.DS_Store
+Thumbs.db
